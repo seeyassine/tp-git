@@ -1,0 +1,5 @@
+git checkout -f --pour ecraser tous les modification 
+git checkout -b main feature/add-catalogecomponant ---pour creae une boranche abse de commit abase de master 
+
+stache sauvgarde dans le cale 
+
